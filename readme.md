@@ -21,4 +21,5 @@ No install. No server. ¯\\\_(ツ)\_/¯ https://pdf-editor.now.sh
 
 ---
 
+source : https://github.com/ShizukuIchi/pdf-editor
 LICENSE MIT © 2020 ShizukuIchi
